@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diana Padre!
 - 👀 I’m interested in Web Design & Development.
-- 🌱 I’m still currently learning JavaScript though.
+- 🌱 I’m still currently learning JavaScript.
 - 💞️ I’m looking to collaborate on some projects someday.
 - 📫 How to reach me ...
 
